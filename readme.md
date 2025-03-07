@@ -1,4 +1,4 @@
-# Observabilidade e Ferramentas (Grafana com Protheus utilizando Docker)
+# Grafana com Protheus utilizando Docker
 
 ## Introdução
 A observabilidade é um conceito essencial para monitoramento e análise de sistemas modernos, especialmente em arquiteturas distribuídas e baseadas em microserviços. Este documento explora o uso do Grafana integrado ao Protheus para visualização e análise de métricas utilizando Docker no Windows.
